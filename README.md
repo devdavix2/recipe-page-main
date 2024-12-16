@@ -30,12 +30,15 @@ Create a recipe page that displays the following:
 
 ### Screenshot
 
-![Screenshot of the recipe page](./assets/images/screenshot.jpg)
+![Screenshot of the recipe page Desktop View ](./solutions/FireShot%20Capture%20153%20-%20Frontend%20Mentor%20-%20Recipe%20page%20-%20127.0.0.1.png)
+![Screenshot of the recipe page Mobile View ](./solutions/FireShot%20Capture%20154%20-%20Frontend%20Mentor%20-%20Recipe%20page%20-%20127.0.0.1.png)
+
+
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [ GitHub Repository](https://github.com/devdavix2/recipe-page-main)
+- Live Site URL: [Vercel Deployment](https://recipe-page-main-eta-three.vercel.app/)
 
 ## My Process
 
@@ -69,15 +72,20 @@ While working on this project, I gained a better understanding of structuring se
 #### CSS Example:
 
 ```css
+
 .container {
-  max-width: 800px;
-  margin: 0 auto;
-  font-family: 'Outfit', sans-serif;
+  display: flex;
+  flex-direction: column;
+  background: hsl(0, 0%, 100%);
+  padding: 30px;
+  border-radius: 30px;
+  width: 700px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  overflow: hidden;
 }
-.title {
-  font-weight: 700;
-  margin-bottom: 10px;
-}
+
+.re
 ```
 
 ### Continued Development
@@ -96,9 +104,9 @@ In future projects, I plan to:
 
 ## Author
 
-- Website: [Your Portfolio](https://your-portfolio-site.com)
-- Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Website: [Devdavix](https://devdavixx.vercel.app/)
+- Frontend Mentor: [@devdavix](https://www.frontendmentor.io/profile/devdavix)
+- Twitter: [@devdavix](https://twitter.com/devdavix)
 
 ## Acknowledgments
 
